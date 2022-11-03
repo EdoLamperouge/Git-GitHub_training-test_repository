@@ -1,8 +1,8 @@
 # hyperblog
 
-Un blog increíble para el curso de Git y Github de Platzi.
+Un blog genial para el curso de Git y Github
 =======
-blog del curso de git y github platzi
+blog del curso de git y github
 
 >El curso de git y github de platzi es lo que me hacía falta para triplicar mi salario y lanzarme a la industria del tejido de lana sintética con machine learning
 > - niñita
